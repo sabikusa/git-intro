@@ -1,3 +1,8 @@
 Our best thoughts came from others.
+<<<<<<< HEAD
 -Letters and Social Aims. Quotations and Originality. Ralph Waldo Emerson. ca 1820-1830
+=======
+-Letters and Social Aims. Quotations and Originality. Ralph Waldo Emerson. ca. 1800s
+>>>>>>> lincoln
 To be or not to be, that is the question!
+
